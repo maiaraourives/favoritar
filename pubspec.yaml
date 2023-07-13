@@ -1,7 +1,7 @@
 name : favoritar 
 description : Pacote para favoritar. 
 version : 1.0.0
-homepage : https://github.com/MaiaFerreira04/criando_package.git
+homepage : https://github.com/MaiaFerreira04/favoritar.git
 
 environment:
   sdk: '>=3.0.3 <4.0.0'
