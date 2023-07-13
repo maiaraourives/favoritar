@@ -1,6 +1,6 @@
-name : favoritar 
-description : Pacote para favoritar. 
-version : 1.0.0
+name : text_button
+description : Pacote para text_button. 
+version : 1.0.5
 homepage : https://github.com/MaiaFerreira04/favoritar.git
 
 environment:
